@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Cheese Pizza",
+      "image": "https://www.freeiconspng.com/uploads/pizza-png-1.png",
+      "price": 12.45,
+      "cal": 350,
+      "ingredients": "Feta, fontina cheese, mozzarella, parmesan cheese, sauce"
+    },
+    {
+      "id": 2,
+      "name": "Veggie Pizza",
+      "image": "https://www.freeiconspng.com/uploads/pizza-png-17.png",
+      "price": 14.99,
+      "cal": 450,
+      "ingredients": "Crescent rolls, cream cheese, ranch dressing mix, broccoli, olive"
+    },
+    {
+      "id": 3,
+      "name": "Peperoni Pizza",
+      "image": "https://www.freeiconspng.com/uploads/pizza-png-21.png",
+      "price": 9.99,
+      "cal": 310,
+      "ingredients": "Pepperoni, tomato paste, mozzarella, sauce & cheese"
+    },
+    {
+      "id": 4,
+      "name": "HOT Pizza",
+      "image": "https://www.freeiconspng.com/uploads/pizza-png-12.png",
+      "price": 13.45,
+      "cal": 395,
+      "ingredients": "Chicken breast, sharp cheddar cheese, jalapeno, tomatoes, sauce"
+    },
+    {
+      "id": 5,
+      "name": "Spring Pizza",
+      "image": "https://www.freeiconspng.com/uploads/pizza-png-15.png",
+      "price": 22.05,
+      "cal": 500,
+      "ingredients": "Ricotta cheese, pesto, lemon, grilled asparagus, fontina cheese"
+    },
+    {
+      "id": 6,
+      "name": "Mixed Pizza",
+      "image": "https://www.freeiconspng.com/uploads/pizza-png-13.png",
+      "price": 14.25,
+      "cal": 295,
+      "ingredients": "Mix, bell pepper, ham, Italian sausage, pizza sauce, mozzarella"
+    },
+    {
+      "id": 7,
+      "name": "Mushroom Pizza",
+      "image": "https://www.freeiconspng.com/uploads/pizza-png-27.png",
+      "price": 15.95,
+      "cal": 350,
+      "ingredients": "Portobello mushrooms, cherry tomatoes, sauce, mozzarella"
+    },
+    {
+      "id": 8,
+      "name": "Olive Pizza ",
+      "image": "https://www.freeiconspng.com/uploads/pizza-png-0.png",
+      "price": 16.98,
+      "cal": 420,
+      "ingredients": "Lebanese bread, tomato paste, kalamata olives, mozzarella"
+    },
+    {
+      "id": 9,
+      "name": "Green Pizza",
+      "image": "https://www.freeiconspng.com/uploads/pizza-png-22.png",
+      "price": 10.99,
+      "cal": 410,
+      "ingredients": "Sun dried tomatoes, cauliflower, pizza crust, spinach pesto, cheese"
+    }
+  ]
+}
